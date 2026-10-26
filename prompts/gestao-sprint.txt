@@ -1,0 +1,13 @@
+Tool: built-in image_gen
+
+Generation prompt:
+Use case: logo-brand.
+Asset type: square avatar for a sprint management webhook in Google Meet/Chat, part of the same icon family as the two supplied references.
+Input images: image 1 (expedicao.png) and image 2 (code-review.png) are STYLE REFERENCES ONLY. Create a NEW sprint-management icon, not a copy of either subject.
+Primary request: a polished, simple sprint management avatar featuring a large three-column Kanban task board with a compact stopwatch overlapping its lower-right corner. Use a few large task cards; the completed column includes one clear checkmark.
+Style: match the references' bold friendly vector-like raster illustration, rounded shapes, thick white outlines, dark navy inner surfaces, bright gradient background and restrained soft depth. No realism.
+Composition: centered, front view, square 1:1 image, a rounded-square violet-to-indigo background tile filling most of the canvas, transparent outer corners, balanced generous safe margin so the core icon survives circular cropping. Board and stopwatch should read immediately at small avatar sizes. White board header and frame, navy board interior, a few cyan and lavender task blocks; white-rimmed stopwatch with a bright green face and simple white clock hands. Keep it uncluttered, with visual weight and corner radii similar to the reference icons.
+Constraints: one icon only; no text, letters, digits, words, logos, watermark, or mockup. Crisp smooth edges. 1024x1024.
+
+Cleanup prompt:
+Edit this avatar with one targeted cleanup only: remove all stray purple, blue and magenta speckles, fringes, blobs and ghost pixels OUTSIDE the smooth rounded-square tile silhouette. The entire area outside the tile must be perfectly clean fully transparent alpha. Maintain a crisp smooth antialiased rounded-square outer edge. Keep the existing Kanban board, stopwatch, composition, proportions, colors, interior gradients and details exactly unchanged. Output one square PNG avatar.

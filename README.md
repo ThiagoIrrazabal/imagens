@@ -8,3 +8,4 @@ URL direta: `https://raw.githubusercontent.com/ThiagoIrrazabal/imagens/main/avat
 |---|---|
 | <img src="avatars/code-review.png" width="64"> | `avatars/code-review.png` |
 | <img src="avatars/expedicao.png" width="64"> | `avatars/expedicao.png` |
+| <img src="avatars/gestao-sprint.png" width="64"> | `avatars/gestao-sprint.png` |
